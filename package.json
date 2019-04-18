@@ -1,0 +1,16 @@
+{
+  "name": "mynode",
+  "version": "1.0.0",
+  "description": "123",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server/server.js"
+  },
+  "author": "sxt",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
